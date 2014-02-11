@@ -1,8 +1,6 @@
 demos
 =====
 
-`index.html` currently demos a library independent version of (http://jqueryui.com/slider/)[http://jqueryui.com/slider/].
+`index.html` currently demos a protoype of a library independent version of [jqueryui slider](http://jqueryui.com/slider/).
 
-This currently work in Chrome, FF, Safari and IE9+.
-
-The IE8 polyfills are still in progress.
+This executes in Chrome, FF, Safari and IE9+. The IE8 polyfills are still in progress.
